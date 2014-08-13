@@ -1,6 +1,12 @@
 {
   "name": "wag-theme-modern",
   "version": "0.1.0",
+  "defautDirectories" : {
+    "css-dir" : "css",
+    "js-dir" : "js",
+    "less-dir" : "less",
+    "src-dir" : "src"
+  },
   "devDependencies": {
     "grunt": "~0.4.5",
     "grunt-contrib-jshint": "^0.10.0",
