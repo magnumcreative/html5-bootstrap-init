@@ -11,6 +11,10 @@ The files created in the default directory structure will be named per the proje
 
 Usage
 ==========
+<ol>
+	<li>test</li>
+	<li>test</li>
+</ol>
 1.) Create local repo<br />
 2.) Add remote repo <br />
 3.) Pull remote repo<br />
@@ -20,24 +24,36 @@ Usage
 
 Now you have a barebones working directory ready for HTML boilerplate of your choice. 
 
-root<br />
-   |<br />
-    less<br />
-        |<br />
-         main.less<br />
-    css<br />
-       |<br />
-        main.css<br />
-    js<br />
-      |<br />
-       main.min.js<br />
-    src<br />
-       |<br />
-        main.js<br />
-    Gruntfile.js<br />
-    package.json<br />
-    .jshintrc<br />
-    .gitignore<br />
+<ul>
+    <li>root
+    	<ul>
+    	    <li>less
+		    	<ul>
+		    	    <li>main.less</li>
+		    	</ul>
+		    </li>
+		    <li>css
+		    	<ul>
+		    	    <li>main.css</li>
+		    	</ul>
+		    </li>
+		    <li>js
+		    	<ul>
+		    	    <li>main.min.js</li>
+		    	</ul>
+		    </li>
+		    <li>src
+		    	<ul>
+		    	    <li>main.js</li>
+		    	</ul>
+		    </li>
+    	</ul>
+    </li>
+     <li>Gruntfile.js</li>
+     <li>package.json</li>
+     <li>.jshintrc</li>
+     <li>.gitignore</li>
+</ul>
 
 
 
