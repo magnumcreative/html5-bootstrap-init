@@ -6,7 +6,7 @@ If you only need Gruntfile.js and package.json see, https://github.com/magnumcre
 Usage
 ===========================
 <ul>
-<li>Clone or export this directory to local repo</li>
+<li>Clone or export this repo to your local repo</li>
 <li>sudo npm install (config dependencies)</li>
 <li>grunt (starts the watch)</li>
 </ul>
