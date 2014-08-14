@@ -43,12 +43,13 @@ Now you have a barebones working directory ready for HTML boilerplate of your ch
 		    	    <li>main.js</li>
 		    	</ul>
 		    </li>
+		    <li>Gruntfile.js</li>
+		    <li>package.json</li>
+		    <li>.jshintrc</li>
+		    <li>.gitignore</li>
     	</ul>
     </li>
-     <li>Gruntfile.js</li>
-     <li>package.json</li>
-     <li>.jshintrc</li>
-     <li>.gitignore</li>
+
 </ul>
 
 
