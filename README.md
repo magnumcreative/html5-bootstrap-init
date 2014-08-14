@@ -11,54 +11,32 @@ The files created in the default directory structure will be named per the proje
 
 Usage
 ==========
-1.) Create local repo
-
-2.) Add remote repo 
-
-3.) Pull remote repo
-
-4.) Terminal > cd to local repo directory
-
-5.) sudo npm install
-
-6.) grunt
+1.) Create local repo<br />
+2.) Add remote repo <br />
+3.) Pull remote repo<br />
+4.) Terminal > cd to local repo directory<br />
+5.) sudo npm install<br />
+6.) grunt<br />
 
 Now you have a barebones working directory ready for HTML boilerplate of your choice. 
 
 root
-
    |
-
     less
-
         |
-
          main.less
-
     css
-
        |
-
         main.css
-
     js
-
       |
-
        main.min.js
-
     src
-
        |
-
         main.js
-
     Gruntfile.js
-
     package.json
-
     .jshintrc
-
     .gitignore
 
 
