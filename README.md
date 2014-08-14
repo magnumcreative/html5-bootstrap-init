@@ -20,24 +20,24 @@ Usage
 
 Now you have a barebones working directory ready for HTML boilerplate of your choice. 
 
-root
-   |
-    less
-        |
-         main.less
-    css
-       |
-        main.css
-    js
-      |
-       main.min.js
-    src
-       |
-        main.js
-    Gruntfile.js
-    package.json
-    .jshintrc
-    .gitignore
+root<br />
+   |<br />
+    less<br />
+        |<br />
+         main.less<br />
+    css<br />
+       |<br />
+        main.css<br />
+    js<br />
+      |<br />
+       main.min.js<br />
+    src<br />
+       |<br />
+        main.js<br />
+    Gruntfile.js<br />
+    package.json<br />
+    .jshintrc<br />
+    .gitignore<br />
 
 
 
