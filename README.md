@@ -11,10 +11,6 @@ The files created in the default directory structure will be named per the proje
 
 Usage
 ==========
-<ol>
-	<li>test</li>
-	<li>test</li>
-</ol>
 1.) Create local repo<br />
 2.) Add remote repo <br />
 3.) Pull remote repo<br />
