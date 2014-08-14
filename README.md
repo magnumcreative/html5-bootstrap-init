@@ -3,7 +3,7 @@ HTML5 - Bootstrap 3 - Grunt
 
 <ul>
 <li>Clone or export this directory to local repo</li>
-<li>sudo npm install</li>
+<li>sudo npm install (config dependencies)</li>
 <li>grunt (starts the watch)</li>
 </ul>
 
