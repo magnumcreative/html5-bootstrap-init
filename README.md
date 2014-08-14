@@ -12,7 +12,7 @@ The files created in the default directory structure will be named per the proje
 Usage
 ==========
 1.) Create local repo<br />
-2.) Add remote repo <br />
+2.) Add remote repo ( https://github.com/magnumcreative/grunt-init.git )<br />
 3.) Pull remote repo<br />
 4.) Terminal > cd to local repo directory<br />
 5.) sudo npm install<br />
